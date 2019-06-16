@@ -1,0 +1,13 @@
+{
+	"name": "net-graph",
+	"description": "Network Graph",
+	"version": "0.0.1",
+	"dependencies": {
+		"@types/winston": "^2.4.4",
+		"ejs": "^2.6.1",
+		"express": "^4.17.1",
+		"node-cron": "^2.0.3",
+		"nodemon": "^1.19.1",
+		"winston": "^3.2.1"
+	}
+}
